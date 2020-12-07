@@ -1,1 +1,4 @@
-#Nothing in it
+# Nothing in it
+
+- [ ] design home page
+- [ ] add contact page
